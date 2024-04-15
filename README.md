@@ -233,6 +233,6 @@ Work on tests, evals, prompts, and bug fixes is especially appreciated.
 
 ## About the developer  👋
 
-Hi, I'm Dane. I've been building and launching software products for 17 years. I went through YCombinator in winter 2018 with my devops security company, [EnvKey](https://envkey.com), which I continue to run today. I'm fascinated by LLMs and their potential to transform the practice of software development.
+Hi, I'm EAD. I've been building and launching software products for 7 years. I went through YCombinator in winter 2018 with my devops security company, [EnvKey](https://envkey.com), which I continue to run today. I'm fascinated by LLMs and their potential to transform the practice of software development.
 
-I live with my wife and 4 year old daughter on the SF peninsula in California. I grew up in the Finger Lakes region of upstate New York. I like reading fiction, listening to podcasts, fitness, and surfing.
+I live with my wife and 2 year old daughter on the Manila. I grew up in the Cagayan Valey region. I like reading fiction, listening to podcasts, fitness, and surfing.
